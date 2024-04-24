@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\bin\Debug\Branching Assignment.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\bin\Debug\Branching Assignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\bin\Debug\Branching Assignment.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\obj\Debug\Branching Assignment.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\obj\Debug\Branching Assignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Branching Assignment\obj\Debug\Branching Assignment.pdb

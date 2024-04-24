@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\myConsoleProject\obj\Debug\myConsoleProject.pdb

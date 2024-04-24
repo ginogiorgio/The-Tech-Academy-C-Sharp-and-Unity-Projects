@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\bin\Debug\IncomeProgram.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\bin\Debug\IncomeProgram.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\bin\Debug\IncomeProgram.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\obj\Debug\IncomeProgram.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\obj\Debug\IncomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\obj\Debug\IncomeProgram.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\IncomeProgram\obj\Debug\IncomeProgram.pdb

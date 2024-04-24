@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\bin\Debug\Loop.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\bin\Debug\Loop.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\bin\Debug\Loop.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\obj\Debug\Loop.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\Basic_C#_Programs\Loop\obj\Debug\Loop.pdb
