@@ -1,0 +1,6 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\bin\Debug\AbstractClassAssignments.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\bin\Debug\AbstractClassAssignments.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\bin\Debug\AbstractClassAssignments.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\obj\Debug\AbstractClassAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\obj\Debug\AbstractClassAssignments.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\AbstractClassAssignments\obj\Debug\AbstractClassAssignments.pdb

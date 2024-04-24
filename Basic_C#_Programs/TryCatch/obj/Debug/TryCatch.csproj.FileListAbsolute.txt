@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatch\obj\Debug\TryCatch.pdb

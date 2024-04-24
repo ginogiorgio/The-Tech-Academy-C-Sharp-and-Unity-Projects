@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\obj\Debug\MainMethodAssignment.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb

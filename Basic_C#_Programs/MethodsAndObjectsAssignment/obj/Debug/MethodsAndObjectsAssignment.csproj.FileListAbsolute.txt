@@ -1,0 +1,6 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.pdb

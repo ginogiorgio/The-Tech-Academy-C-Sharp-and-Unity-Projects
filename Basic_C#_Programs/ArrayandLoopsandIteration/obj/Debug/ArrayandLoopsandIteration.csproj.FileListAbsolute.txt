@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\bin\Debug\ArrayandLoopsandIteration.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\bin\Debug\ArrayandLoopsandIteration.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\bin\Debug\ArrayandLoopsandIteration.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\obj\Debug\ArrayandLoopsandIteration.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\obj\Debug\ArrayandLoopsandIteration.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\obj\Debug\ArrayandLoopsandIteration.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ArrayandLoopsandIteration\obj\Debug\ArrayandLoopsandIteration.pdb
