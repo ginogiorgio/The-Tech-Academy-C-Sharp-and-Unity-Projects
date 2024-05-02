@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb

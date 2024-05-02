@@ -1,0 +1,7 @@
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\bin\Debug\ParameterAssignment.exe.config
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\bin\Debug\ParameterAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\bin\Debug\ParameterAssignment.pdb
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\obj\Debug\ParameterAssignment.csprojAssemblyReference.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\obj\Debug\ParameterAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\obj\Debug\ParameterAssignment.exe
+C:\Users\Giorgio\Desktop\The Tech Academy - Training Mats\The-Tech-Academy-C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParameterAssignment\obj\Debug\ParameterAssignment.pdb

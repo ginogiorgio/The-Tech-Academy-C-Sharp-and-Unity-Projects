@@ -10,14 +10,7 @@ namespace Deck_of_Cards
 	{
 		static void Main(string[] args)
 		{
-			Game game = new TwentyOneGame();
-			game.Players = new List<Player>();
-			Player player = new Player();
-			player.Name = "Gino";
-			game += player;
-			game -= player;
-
-
+		
 			Deck deck = new Deck();
 			deck.Shuffle(times: 3);
 
@@ -30,5 +23,7 @@ namespace Deck_of_Cards
 			Console.WriteLine(deck.Cards.Count);
 			Console.ReadLine();
 		}
+
+	
 	}
 }
